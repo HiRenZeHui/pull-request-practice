@@ -27,7 +27,7 @@
 
 <a href="https://press.ustc.edu.cn" target="_blank">《和Wakaba酱一起学Git》</a>
 
-出版社：中国科学技术大学出版社
+出版社：清华大学出版社
 
 - CHAPTER 1 Git是什么？
 - CHAPTER 2 一个人独自使用Git
